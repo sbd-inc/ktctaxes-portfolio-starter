@@ -18,17 +18,17 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: 'Tax,Taxes,CRA,Revenue,Personal'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: 'Corporate website for KTC Taxes'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: 'SBD Systems By Design Inc.'
   })
 
   head.link.push({

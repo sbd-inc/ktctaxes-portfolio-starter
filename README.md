@@ -1,4 +1,4 @@
-# Gridsome Portfolio Starter
+# KTC Taxes
 
 A simple portfolio starter theme for Gridsome
 
