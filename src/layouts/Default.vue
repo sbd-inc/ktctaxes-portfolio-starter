@@ -22,8 +22,8 @@
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
           </li>
           <li>
-            <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Projects</a>
-            <g-link v-else to="/#projects" class="text-copy-primary hover:text-gray-600">Projects</g-link>
+            <a v-if="$route.path === '/'" href="/#notes" v-scroll-to="'#notes'" class="text-copy-primary hover:text-gray-600">Notes</a>
+            <g-link v-else to="/#notes" class="text-copy-primary hover:text-gray-600">Notes</g-link>
           </li>
           <li>
             <a v-if="$route.path === '/'" href="/#about" v-scroll-to="'#about'" class="text-copy-primary hover:text-gray-600">About</a>
