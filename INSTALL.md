@@ -30,6 +30,8 @@ TODO
 
 Fix "Cannot GET /sitemap.xml" at http://localhost:8080/sitemap.xml
 
+Get tel # somewhere on home page??  The bus card popup will show but then ?
+
 VueJS component for 
 webmap
 slider for tips/reminders like WP Annex

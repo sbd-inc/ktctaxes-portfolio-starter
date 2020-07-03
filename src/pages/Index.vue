@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">{{ $static.metadata.siteName }}</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp; Tailwind v1</div>
+        <div class="text-green-700 leading-tight">Tax Preparation services</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -11,7 +11,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
+      <p class="text-lg sm:text-xl">Straight-forward tax preparation for personal and sole proprietorship clients.  Let us help you complete and file your income taxes through personal service. We can clarify the annual changes from <a href="https://www.canada.ca/en/revenue-agency.html">Canada Revenue Agency</a> and consider how it affects your personal taxes.</p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -25,20 +25,20 @@
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6" id="projects">Here are some projects I've worked on:</h2>
+        <h2 class="font-bold mb-6" id="projects">Here are some things to note:</h2>
 
         <ul class="text-lg sm:text-xl space-y-6">
           <li class="checkmark">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Office Hours</div>
+            <div class="text-lg text-gray-600">From January 15th -April 30th 2020, our office hours are 9:00am to 5:00pm. After April 30th, 2020, by appointment only.</div>
           </li>
           <li class="checkmark">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Focus on you</div>
+            <div class="text-lg text-gray-600">Please do not call outside these hours; we need to focus time to work on your returns.</div>
           </li>
           <li class="checkmark">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Filing Deadline</div>
+            <div class="text-lg text-gray-600">Our deadline to accept taxes is Saturday, April 27th 2020.  This gives us time to prepare, sign nd send in last-minute returns to CRA.</div>
           </li>
           <li class="checkmark">
             <div>Project Four</div>
@@ -80,7 +80,7 @@
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Firstname Surname" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
@@ -114,7 +114,7 @@
         <h2 class="text-2xl font-bold mb-8">Join my Newsletter</h2>
 
         <div class="w-4/5 mx-auto mb-8">
-          <p class="mb-8 text-lg sm:text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, voluptatum. Quam, deleniti nulla.</p>
+          <p class="mb-8 text-lg sm:text-xl">Stay notified of important information via tidbits and "The Checklist"</p>
 
           <form action="#">
             <div class="flex flex-col sm:flex-row">
