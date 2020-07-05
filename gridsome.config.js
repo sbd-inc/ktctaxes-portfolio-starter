@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: "KTC Taxes",
-  // siteUrl: "https://sbd-inc.github.io/ktctaxes/",
+  // TODO siteUrl: "https://sbd-inc.github.io/ktctaxes/",
   siteUrl: "http://localhost:8080",
   plugins: [
     {
