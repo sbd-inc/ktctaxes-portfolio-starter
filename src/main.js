@@ -33,8 +33,10 @@ export default function (Vue, { router, head, isClient }) {
 
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
-    // TODO GW add Open+Sans:400,700 - also check tailwind.config.js
+    href: 'https://fonts.googleapis.com/css2?family=Roboto&display=swap'
+
+    // 'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap'
+
     // see node_modules/tailwindcss/stubs/defaultConfig.stub.js for OOT classes
   })
 }
